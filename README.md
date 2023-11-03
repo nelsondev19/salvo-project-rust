@@ -1,0 +1,1 @@
+# salvo-project-rust
